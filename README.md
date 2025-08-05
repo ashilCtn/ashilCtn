@@ -44,6 +44,3 @@
 
 ---
 
-### 📌 Pinned Repositories:
-
-<!-- Add your pinned repos manually here later -->
