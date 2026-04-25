@@ -1,46 +1,58 @@
-<h1 align="center">Hi 👋, I'm Ashil P Anil</h1>
-<p align="center">Get, Set, Ready!</p>
+# Hi, I'm Ashil p Anil
+### An aspiring full stack engineer 
 
-<img align="right" alt="Coder GIF" width="380" src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fdhwanish-coding.gif?alt=media&token=1bf44f70-8a12-43e7-bab7-f2992be2bff2" />
-
-- 🌱 I’m currently learning Flutter  
-- 💻 I am a passionate software developer  
-- 🚀 I love to develop both mobile apps  
-- 🔗 All of my projects are available [here](https://github.com/ashilCtn)
-- 🛠️ You can ask me about Flutter, C/C++, Git, Firebase, UI design
-
+## 💻 Tech Stack
 ---
 
-### 🌐 Connect with me:
-
-<p>
-    <a href="https://leetcode.com/u/FairyArez/">
-    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fleetcode.svg?alt=media&token=4682f396-e6cf-4c6d-901d-58370e54ff6c" alt="dhwanish3" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/ashil-undefined-50033929b/" target="_blank">
-  <img align="center" src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Flinkedin.svg?alt=media&token=dbb39266-3dcc-483d-a04a-b0f3094b4af9" alt="Ashil LinkedIn" height="30" width="40" />
-</a>
+<table>
+<tr>
+<td>
+    
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=c" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=dart" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=express" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=figma" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=firebase" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=flutter" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=java" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=py" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=ts" /></a>
 </p>
 
+</td>
+</tr>
+</table>
+
 ---
 
-### ⚙️ Languages and Tools:
+## 📊 GitHub Stats
+---
 
-<p>
-  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" />
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" />
-  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" />
-  <img src="https://img.icons8.com/color/48/dart.png" alt="Dart" />
-  <img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter" />
-  <img src="https://img.icons8.com/color/48/github--v1.png" alt="GitHub" />
-  <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" />
-  <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashilCtn&show_icons=true&locale=en" />
 </p>
 
----
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashilCtn&show_icons=true&locale=en&layout=compact" />
+</p>
 
-### 📊 My Contributions:
-
-
-
----
-
+<h3 align="left">Connect with me:</h3>
+<p align="left" display='flex'>
+<a href="https://github.com/ashilCtn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ashilCtn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ASHIL P ANIL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ASHIL P ANIL" height="30" width="40" /></a>
+<a href="https://fb.com/Ashil Ctn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ashil Ctn" height="30" width="40" /></a>
+<a href="https://instagram.com/voldermort___7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="voldermort___7" height="30" width="40" /></a>
+</p>
