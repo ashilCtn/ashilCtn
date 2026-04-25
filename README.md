@@ -1,13 +1,14 @@
-# Hi, I'm Ashil p Anil
-### An aspiring full stack engineer 
+<h1>Hi, I'm Ashil P Anil</h1>
+<h3>An aspiring full stack engineer</h3>
 
-## 💻 Tech Stack
----
+<hr>
+
+<h3>💻 Tech Stack</h3>
 
 <table>
 <tr>
 <td>
-    
+
 <p align="left">
   <a href="#"><img src="https://skillicons.dev/icons?i=c" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=cpp" /></a>
@@ -36,10 +37,9 @@
 </tr>
 </table>
 
----
+<hr>
 
-## 📊 GitHub Stats
----
+<h3>📊 GitHub Stats</h3>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ashilCtn&show_icons=true&locale=en" />
@@ -49,10 +49,24 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashilCtn&show_icons=true&locale=en&layout=compact" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left" display='flex'>
-<a href="https://github.com/ashilCtn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ashilCtn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ASHIL P ANIL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ASHIL P ANIL" height="30" width="40" /></a>
-<a href="https://fb.com/Ashil Ctn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ashil Ctn" height="30" width="40" /></a>
-<a href="https://instagram.com/voldermort___7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="voldermort___7" height="30" width="40" /></a>
+<hr>
+
+<h3>Connect with me:</h3>
+
+<p align="left">
+  <a href="https://github.com/ashilCtn">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://linkedin.com/in/ashil-panil">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://fb.com/ashilctn">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://instagram.com/voldermort___7">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" />
+  </a>
 </p>
