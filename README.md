@@ -77,7 +77,7 @@
 <h3>📊 GitHub Stats</h3>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ashilCtn&show_icons=true&theme=tokyonight&title_color=bb86fc&icon_color=bb86fc&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.shion.dev/api?username=ashilCtn&show_icons=true&theme=tokyonight&title_color=bb86fc&icon_color=bb86fc&text_color=c9d1d9" />
 </p>
 
 <p>
@@ -85,7 +85,7 @@
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashilCtn&layout=compact&theme=tokyonight&title_color=bb86fc&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=ashilCtn&layout=compact&theme=tokyonight&title_color=bb86fc&text_color=c9d1d9" />
 </p>
 
 <hr>
