@@ -66,7 +66,7 @@
 
 <h4>Tools & Others</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,firebase,figma" />
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,firebase,figma,vscode" />
 </p>
 
 </td></tr>
@@ -93,18 +93,15 @@
 <h3>Connect with me:</h3>
 
 <p>
-  <a href="https://github.com/ashilCtn">
+  <a href="https://github.com/ashilCtn" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" />
   </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://linkedin.com/in/ashil-panil">
+  <a href="https://www.linkedin.com/in/ashil007/" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
   </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://fb.com/ashilctn">
+  <a href="https://fb.com/ashilctn" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" />
   </a>&nbsp;&nbsp;&nbsp;
-
   <a href="https://instagram.com/voldermort___7">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" />
   </a>
