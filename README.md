@@ -90,19 +90,6 @@
 
 <hr>
 
-<h3>Connect with me:</h3>
+### Connect with me:
 
-<p>
-  <a href="https://github.com/ashilCtn" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ashil007/" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://fb.com/ashilctn" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/voldermort___7">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" />
-  </a>
-</p>
+[![github](https://skillicons.dev/icons?i=github)](https://github.com/ashilCtn) &nbsp; [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ashil007/) &nbsp; [![facebook](https://img.icons8.com/fluency/48/facebook-new.png)](https://fb.com/ashilctn) &nbsp; [![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/voldermort___7)
