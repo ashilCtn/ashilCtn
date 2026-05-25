@@ -90,14 +90,10 @@
 
 <hr>
 
----
-
 ## 🤝 Connect with me
 
-[![github](https://skillicons.dev/icons?i=github)](https://github.com/ashilCtn) &nbsp;
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ashil007/) &nbsp;
-[![facebook](https://img.icons8.com/fluency/48/facebook-new.png)](https://fb.com/ashilctn) &nbsp;
-[![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/voldermort___7) &nbsp;
+[![twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/ashil_ctn) &nbsp;
 [![portfolio](https://img.shields.io/badge/Portfolio-BB86FC?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-six-ivory-54.vercel.app/)
 
 ---
