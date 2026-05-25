@@ -90,7 +90,7 @@
 
 <hr>
 
-## 🤝 Connect with me
+ <h3>🤝 Connect with me</h3>
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ashil007/) &nbsp;
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/ashil_ctn) &nbsp;
