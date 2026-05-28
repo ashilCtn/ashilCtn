@@ -1,5 +1,5 @@
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=2000&color=BB86FC&width=700&lines=Hi,+I'm+Ashil+P+Anil;Aspiring+Full+Stack+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=2000&color=BB86FC&width=700&lines=Hi,+I'm+Ashil+P+Anil;Full+Stack+Engineer" />
 
   [![View Portfolio](https://img.shields.io/badge/↗%20View%20Portfolio-7c3aed?style=for-the-badge&logoColor=white)](https://portfolio-six-ivory-54.vercel.app/)
 </p>
@@ -39,6 +39,8 @@
   </tr>
 </table>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -60,6 +62,8 @@
     </tr>
   </table>
 </div>
+
+---
 
 ## 🤝 Connect with me
 
