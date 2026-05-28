@@ -10,7 +10,7 @@
 
 <hr>
 
-<h3>💻 Tech Stack</h3>
+<h3>Tech Stack</h3>
 <div align="center">
 <table>
   <tr>
@@ -48,7 +48,7 @@
 
 ---
 
-<h3>📊 Github Stats</h3>
+<h3>Github Stats</h3>
 <div align="center">
   <table>
     <tr>
@@ -71,9 +71,8 @@
 
 ---
 
-<h3>🤝 Connect with me</h3>
+<h3>Connect with me</h3>
 <div align="center">
-  <a href="https://github.com/ashilCtn" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" width="45" height="45" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ashil007/" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" width="45" height="45" /></a>&nbsp;&nbsp;
   <a href="https://x.com/ashil_ctn" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" width="45" height="45" /></a>
 </div>
