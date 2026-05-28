@@ -5,7 +5,7 @@
 </p>
 
 <hr>
-
+<h3>Tech Stack</h3>
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -41,7 +41,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<h3>Github Stats</h3>
 
 <div align="center">
   <table>
@@ -65,7 +65,7 @@
 
 ---
 
-## 🤝 Connect with me
+<h3>Connect with me</h3>
 
 <div align="center">
   <a href="https://github.com/ashilCtn" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" width="45" height="45" /></a>&nbsp;&nbsp;
